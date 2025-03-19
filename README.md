@@ -11,9 +11,6 @@ A **DC generator** is an electrical machine that converts mechanical energy into
 - **Performance Analysis**:
   - Shunt DC Generator characteristics
   - Series DC Generator characteristics
-- **Key Equations**:
-  - Induced EMF: \(E = \frac{P\Phi NZ}{60A}\)
-  - Load current relations: \( I_a = I_f + I_L \)
 - **Shunting Techniques**:
   - Short and Long Shunting
 - **Steady-State Analysis**
